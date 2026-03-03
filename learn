@@ -1,0 +1,12 @@
+Qu’allez-vous apprendre dans ce projet ?
+ 
+
+Dans ce projet, vous allez apprendre à développer et à mettre en œuvre des capacités à la fois de prétraitement de texte et de prétraitement d’images et à adapter votre approche aux types de données pour combiner ensuite deux approches. Une deuxième étape vous permettra de réaliser une classification supervisée d’images.
+
+ 
+En quoi ces compétences sont-elles importantes pour votre carrière ?
+Les compétences mentionnées sont cruciales pour un ingénieur AI pour plusieurs raisons :
+
+La compétence de prétraitement de texte et de prétraitement d’images est essentielle pour nettoyer et structurer les données textuelles, qui sont souvent brutes et désorganisées. Cela permet de convertir le texte en un format compréhensible par les algorithmes de machine learnin et un bon prétraitement des images améliore la performance des modèles de reconnaissance d’images.
+Un ingénieur AI doit être capable de travailler avec différents types de données, qu’il s’agisse de texte, d’images, de données structurées, ou de données non structurées.
+La capacité à adapter et à combiner différentes approches est essentielle pour créer des modèles plus robustes et polyvalents. La classification supervisée d’images est une compétence fondamentale pour de nombreuses applications en vision par ordinateur, comme la reconnaissance d’objets, la détection de défauts dans la production industrielle, ou encore l’analyse de contenu visuel pour les réseaux sociaux. Cela implique de former des modèles sur des données étiquetées, où chaque image est associée à une catégorie. La précision et l’efficacité de ces modèles sont souvent déterminantes pour le succès de nombreuses applications en intelligence artificielle.
